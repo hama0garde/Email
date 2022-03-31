@@ -21,9 +21,9 @@ $ git clone https://github.com/iraq-hacker/Email
 
 $ cd Email
 
-$ chmod +x fb-hotmail.pyc
+$ chmod +x fb-hotmail.py
 
-$ python fb-hotmail.pyc
+$ python fb-hotmail.py
 ```
 # Sscreenshot 
 ![٢٠٢٠١١٠٦_٠٤١٠٢٤](https://user-images.githubusercontent.com/70316694/98313980-20e8d100-1fe6-11eb-939b-e541269d671c.jpg)
